@@ -40,7 +40,17 @@ pip install -r requirements.txt
 
 ## Usage
 
-[Add usage instructions here as you develop the project]
+This section will be updated once the code files are added to the project.
+
+## Features
+
+- Data preprocessing and cleaning
+- Exploratory data analysis
+- Machine learning model training and evaluation
+- Model interpretability and visualization
+- Web application for predictions
+
+*Detailed features and usage instructions will be added as the project develops.*
 
 ## Contributing
 
@@ -48,4 +58,4 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Add your preferred license]
+This project is open source. License will be specified later.
