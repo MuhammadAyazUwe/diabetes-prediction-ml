@@ -29,7 +29,7 @@ A machine learning project for predicting diabetes using various health indicato
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/diabetes-prediction-ml.git
+git clone https://github.com/MuhammadAyazUwe/diabetes-prediction-ml.git
 cd diabetes-prediction-ml
 ```
 
